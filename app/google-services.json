@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233718587570",
+    "firebase_url": "https://mitecse-f3a84.firebaseio.com",
+    "project_id": "mitecse-f3a84",
+    "storage_bucket": "mitecse-f3a84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233718587570:android:5a230101f1fb7aa43269ab",
+        "android_client_info": {
+          "package_name": "com.example.mitecse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233718587570-2rrndvppnk99e4qp6sc05k9v83qnbqqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQr4XAymMR00c0Md87WsSqBzRoLLPcA3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233718587570-2rrndvppnk99e4qp6sc05k9v83qnbqqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
